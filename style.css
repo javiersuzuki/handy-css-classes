@@ -1,5 +1,5 @@
 /* ---------------------------
- * Margin Classes:
+ * MARGIN:
  *  m = All margins
  * mt = Margin top
  * mb = Margin bottom
@@ -17,8 +17,8 @@
 .mx0 {margin-left: 0; margin-right: 0; }.mx5 {margin-left: 5px; margin-right: 5px; }.mx10 {margin-left: 10px; margin-right: 10px; }.mx15 {margin-left: 15px; margin-right: 15px; }.mx20 {margin-left: 20px; margin-right: 20px; }.mx25 {margin-left: 25px; margin-right: 25px; }.mx30 {margin-left: 30px; margin-right: 30px; }.mx35 {margin-left: 35px; margin-right: 35px; }.mx40 {margin-left: 40px; margin-right: 40px; }.mx45 {margin-left: 45px; margin-right: 45px; }.mx50 {margin-left: 50px; margin-right: 50px; }.mx55 {margin-left: 55px; margin-right: 55px; }.mx60 {margin-left: 60px; margin-right: 60px; }.mx65 {margin-left: 65px; margin-right: 65px; }.mx70 {margin-left: 70px; margin-right: 70px; }.mx75 {margin-left: 75px; margin-right: 75px; }.mx80 {margin-left: 80px; margin-right: 80px; }.mx85 {margin-left: 85px; margin-right: 85px; }.mx90 {margin-left: 90px; margin-right: 90px; }.mx95 {margin-left: 95px; margin-right: 95px; }.mx100 {margin-left: 100px; margin-right: 100px; }
 
 /* ---------------------------
- * Padding Classes:
- *  p = All margins
+ * PADDING:
+ *  p = All paddings
  * pt = Padding top
  * pb = Padding bottom
  * pl = Padding left
@@ -33,3 +33,58 @@
 .pr0 {padding-right: 0; }.pr5 {padding-right: 5px; }.pr10 {padding-right: 10px; }.pr15 {padding-right: 15px; }.pr20 {padding-right: 20px; }.pr25 {padding-right: 25px; }.pr30 {padding-right: 30px; }.pr35 {padding-right: 35px; }.pr40 {padding-right: 40px; }.pr45 {padding-right: 45px; }.pr50 {padding-right: 50px; }.pr55 {padding-right: 55px; }.pr60 {padding-right: 60px; }.pr65 {padding-right: 65px; }.pr70 {padding-right: 70px; }.pr75 {padding-right: 75px; }.pr80 {padding-right: 80px; }.pr85 {padding-right: 85px; }.pr90 {padding-right: 90px; }.pr95 {padding-right: 95px; }.pr100 {padding-right: 100px; }
 .py0 {padding-top: 0; padding-bottom: 0; }.py5 {padding-top: 5px; padding-bottom: 5px; }.py10 {padding-top: 10px; padding-bottom: 10px; }.py15 {padding-top: 15px; padding-bottom: 15px; }.py20 {padding-top: 20px; padding-bottom: 20px; }.py25 {padding-top: 25px; padding-bottom: 25px; }.py30 {padding-top: 30px; padding-bottom: 30px; }.py35 {padding-top: 35px; padding-bottom: 35px; }.py40 {padding-top: 40px; padding-bottom: 40px; }.py45 {padding-top: 45px; padding-bottom: 45px; }.py50 {padding-top: 50px; padding-bottom: 50px; }.py55 {padding-top: 55px; padding-bottom: 55px; }.py60 {padding-top: 60px; padding-bottom: 60px; }.py65 {padding-top: 65px; padding-bottom: 65px; }.py70 {padding-top: 70px; padding-bottom: 70px; }.py75 {padding-top: 75px; padding-bottom: 75px; }.py80 {padding-top: 80px; padding-bottom: 80px; }.py85 {padding-top: 85px; padding-bottom: 85px; }.py90 {padding-top: 90px; padding-bottom: 90px; }.py95 {padding-top: 95px; padding-bottom: 95px; }.py100 {padding-top: 100px; padding-bottom: 100px; }
 .px0 {padding-left: 0; padding-right: 0; }.px5 {padding-left: 5px; padding-right: 5px; }.px10 {padding-left: 10px; padding-right: 10px; }.px15 {padding-left: 15px; padding-right: 15px; }.px20 {padding-left: 20px; padding-right: 20px; }.px25 {padding-left: 25px; padding-right: 25px; }.px30 {padding-left: 30px; padding-right: 30px; }.px35 {padding-left: 35px; padding-right: 35px; }.px40 {padding-left: 40px; padding-right: 40px; }.px45 {padding-left: 45px; padding-right: 45px; }.px50 {padding-left: 50px; padding-right: 50px; }.px55 {padding-left: 55px; padding-right: 55px; }.px60 {padding-left: 60px; padding-right: 60px; }.px65 {padding-left: 65px; padding-right: 65px; }.px70 {padding-left: 70px; padding-right: 70px; }.px75 {padding-left: 75px; padding-right: 75px; }.px80 {padding-left: 80px; padding-right: 80px; }.px85 {padding-left: 85px; padding-right: 85px; }.px90 {padding-left: 90px; padding-right: 90px; }.px95 {padding-left: 95px; padding-right: 95px; }.px100 {padding-left: 100px; padding-right: 100px; }
+
+/* MIN-HEIGHT (incremented by 10 until 500) */
+.minh10{ min-height:10px; } .minh20{ min-height:20px; } .minh30{ min-height:30px; } .minh40{ min-height:40px; } .minh50{ min-height:50px; } .minh60{ min-height:60px; } .minh70{ min-height:70px; } .minh80{ min-height:80px; } .minh90{ min-height:90px; }
+.minh100{ min-height:100px; } .minh110{ min-height:110px; } .minh120{ min-height:120px; } .minh130{ min-height:130px; } .minh140{ min-height:140px; } .minh150{ min-height:150px; } .minh160{ min-height:160px; } .minh170{ min-height:170px; } .minh180{ min-height:180px; } .minh190{ min-height:190px; }
+.minh200{ min-height:200px; } .minh210{ min-height:210px; } .minh220{ min-height:220px; } .minh230{ min-height:230px; } .minh240{ min-height:240px; } .minh250{ min-height:250px; } .minh260{ min-height:260px; } .minh270{ min-height:270px; } .minh280{ min-height:280px; } .minh290{ min-height:290px; }
+.minh300{ min-height:300px; } .minh310{ min-height:310px; } .minh320{ min-height:320px; } .minh330{ min-height:330px; } .minh340{ min-height:340px; } .minh350{ min-height:350px; } .minh360{ min-height:360px; } .minh370{ min-height:370px; } .minh380{ min-height:380px; } .minh390{ min-height:390px; }
+.minh400{ min-height:400px; } .minh410{ min-height:410px; } .minh420{ min-height:420px; } .minh430{ min-height:430px; } .minh440{ min-height:440px; } .minh450{ min-height:450px; } .minh460{ min-height:460px; } .minh470{ min-height:470px; } .minh480{ min-height:480px; } .minh490{ min-height:490px; }
+.minh500{ min-height:500px; }
+
+/* MAX-HEIGHT (incremented by 10 until 500) */
+.maxh10{ max-height:10px; } .maxh20{ max-height:20px; } .maxh30{ max-height:30px; } .maxh40{ max-height:40px; } .maxh50{ max-height:50px; } .maxh60{ max-height:60px; } .maxh70{ max-height:70px; } .maxh80{ max-height:80px; } .maxh90{ max-height:90px; }
+.maxh100{ max-height:100px; } .maxh110{ max-height:110px; } .maxh120{ max-height:120px; } .maxh130{ max-height:130px; } .maxh140{ max-height:140px; } .maxh150{ max-height:150px; } .maxh160{ max-height:160px; } .maxh170{ max-height:170px; } .maxh180{ max-height:180px; } .maxh190{ max-height:190px; }
+.maxh200{ max-height:200px; } .maxh210{ max-height:210px; } .maxh220{ max-height:220px; } .maxh230{ max-height:230px; } .maxh240{ max-height:240px; } .maxh250{ max-height:250px; } .maxh260{ max-height:260px; } .maxh270{ max-height:270px; } .maxh280{ max-height:280px; } .maxh290{ max-height:290px; }
+.maxh300{ max-height:300px; } .maxh310{ max-height:310px; } .maxh320{ max-height:320px; } .maxh330{ max-height:330px; } .maxh340{ max-height:340px; } .maxh350{ max-height:350px; } .maxh360{ max-height:360px; } .maxh370{ max-height:370px; } .maxh380{ max-height:380px; } .maxh390{ max-height:390px; }
+.maxh400{ max-height:400px; } .maxh410{ max-height:410px; } .maxh420{ max-height:420px; } .maxh430{ max-height:430px; } .maxh440{ max-height:440px; } .maxh450{ max-height:450px; } .maxh460{ max-height:460px; } .maxh470{ max-height:470px; } .maxh480{ max-height:480px; } .maxh490{ max-height:490px; }
+.maxh500{ max-height:500px; }
+
+/* VERTICAL ALIGN */
+.va-top { vertical-align: top; }
+.va-middle { vertical-align: middle; }
+.va-bottom { vertical-align: bottom; }
+.va-super { vertical-align: super; }
+.va-baseline{ vertical-align: baseline; }
+.va-sub { vertical-align: sub; }
+.va-text-top { vertical-align: text-top; }
+.va-text-bottom { vertical-align: text-bottom; }
+.va-initial { vertical-align: initial; }
+.va-inherit { vertical-align: inherit; }
+
+/* DISPLAY */
+.block, .display-block{ display: block; }
+.inline, .display-inline{ display: inline; }
+.inline-block, .display-inline-block{ display: inline-block; }
+.flex, .display-flex{ display: flex; }
+.grid, .display-grid{ display: grid; }
+.display-initial{ display: initial; }
+.display-none{ display: none; }
+.display-webkit-box{ display: -webkit-box; }
+.display-webkit-inline-box{ display: -webkit-inline-box; }
+.display-compact{ display: compact; }
+.display-inherit{ display: inherit; }
+.display-inline-flex{ display: inline-flex; }
+.display-inline-grid{ display: inline-grid; }
+.display-inline-table{ display: inline-table; }
+.display-list-item{ display: list-item; }
+.display-run-in{ display: run-in; }
+.display-table{ display: table; }
+.display-table-caption{ display: table-caption; }
+.display-table-cell{ display: table-cell; }
+.display-table-column{ display: table-column; }
+.display-table-column-group{ display: table-column-group; }
+.display-table-footer-group{ display: table-footer-group; }
+.display-table-header-group{ display: table-header-group; }
+.display-table-row{ display: table-row; }
+.display-table-row-group{ display: table-row-group; }
