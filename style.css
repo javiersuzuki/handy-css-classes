@@ -148,3 +148,57 @@
 .lh0{ line-height:0; } .lh01{ line-height:0.1; } .lh02{ line-height:0.2; } .lh03{ line-height:0.3; } .lh04{ line-height:0.4; } .lh05{ line-height:0.5; } .lh06{ line-height:0.6; } .lh07{ line-height:0.7; } .lh08{ line-height:0.8; } .lh09{ line-height:0.9; }
 .lh1{ line-height:1; } .lh11{ line-height:1.1; } .lh12{ line-height:1.2; } .lh13{ line-height:1.3; } .lh14{ line-height:1.4; } .lh15{ line-height:1.5; } .lh16{ line-height:1.6; } .lh17{ line-height:1.7; } .lh18{ line-height:1.8; } .lh19{ line-height:1.9; }
 .lh2{ line-height:2; }
+
+/* COLOR | Shades of Black to White */
+.c-00, .c-000 { color: #000; }
+.c-11, .c-111 { color: #111; }
+.c-22, .c-222 { color: #222; }
+.c-33, .c-333 { color: #333; }
+.c-44, .c-444 { color: #444; }
+.c-55, .c-555 { color: #555; }
+.c-66, .c-666 { color: #666; }
+.c-77, .c-777 { color: #777; }
+.c-88, .c-888 { color: #888; }
+.c-99, .c-999 { color: #999; }
+/* #AAA, #ABABAB, #ACACAC, #ADADAD, #AEAEAE, #AFAFAF */
+.c-aa, .c-aaa { color: #aaa; }
+.c-ab { color: #ababab; }
+.c-ac { color: #acacac; }
+.c-ad { color: #adadad; }
+.c-ae { color: #aeaeae; }
+.c-af { color: #afafaf; }
+/* #BBB, #BABABA, #BCBCBC, #BDBDBD, #BEBEBE, #BFBFBF */
+.c-ba { color: #bababa; }
+.c-bb, .c-bbb { color: #bbb; }
+.c-bc { color: #bcbcbc; }
+.c-bd { color: #bdbdbd; }
+.c-be { color: #bebebe; }
+.c-bf { color: #bfbfbf; }
+/* #CCC, #CACACA, #CBCBCB, #CDCDCD, #CECECE, #CFCFCF */
+.c-ca { color: #cacaca; }
+.c-cb { color: #cbcbcb; }
+.c-cc, .c-ccc { color: #ccc; }
+.c-cd { color: #cdcdcd; }
+.c-ce { color: #cecece; }
+.c-cf { color: #cfcfcf; }
+/* #DDD, #DADADA, #DBDBDB, #DCDCDC, #DEDEDE, #DFDFDF */
+.c-da { color: #dadada; }
+.c-db { color: #dbdbdb; }
+.c-dc { color: #dcdcdc; }
+.c-dd, .c-ddd { color: #ddd; }
+.c-de { color: #dedede; }
+.c-df { color: #dfdfdf; }
+/* #EEE, #EAEAEA, #EBEBEB, #ECECEC, #EDEDED, #EFEFEF */
+.c-ea { color: #eaeaea; }
+.c-eb { color: #ebebeb; }
+.c-ec { color: #ececec; }
+.c-ed { color: #ededed; }
+.c-ee, .c-eee { color: #eee; }
+.c-ef { color: #efefef; }
+/* #FFF, #FAFAFA, #FBFBFB, #FCFCFC, #FDFDFD, #FEFEFE */
+.c-fa { color: #fafafa; }
+.c-fb { color: #fbfbfb; }
+.c-fc { color: #fcfcfc; }
+.c-fd { color: #fdfdfd; }
+.c-fe { color: #fefefe; }
+.c-ff, .c-fff { color: #fff; }
