@@ -221,6 +221,14 @@
 .br40 { border-radius: 40px; } .br41 { border-radius: 41px; } .br42 { border-radius: 42px; } .br43 { border-radius: 43px; } .br44 { border-radius: 44px; } .br45 { border-radius: 45px; } .br46 { border-radius: 46px; } .br47 { border-radius: 47px; } .br48 { border-radius: 48px; } .br49 { border-radius: 49px; }
 .br50 { border-radius: 50px; } .br50p { border-radius: 50%; } .br100p { border-radius: 100%; }
 
-/* CLEAR TEXT/BOX SHADOW  */
+/* CLEAR TEXT/BOX SHADOW */
 .no-text-shadow { text-shadow: 0 0 0 rgba(0,0,0,0); }
 .no-box-shadow { box-shadow: 0 0 0 rgba(0,0,0,0); }
+
+/* TEXT TRANSFORMATION */
+.tt-capitalize, .tt-capitalise {text-transform: capitalize; }
+.tt-inherit {text-transform: inherit; }
+.tt-initial {text-transform: initial; }
+.tt-lowercase {text-transform: lowercase; }
+.tt-none {text-transform: none; }
+.tt-uppercase {text-transform: uppercase; }
