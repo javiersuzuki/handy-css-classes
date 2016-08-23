@@ -213,6 +213,70 @@
 .c-fe { color: #fefefe; }
 .c-ff, .c-fff { color: #fff; }
 
+/* BACKGROUND-COLOR | Shades of Black to White */
+.bgc-00, .bgc-000 { background-color: #000; }
+  .bgc-0a { background-color: #0a0a0a; } .bgc-0b { background-color: #0b0b0b; } .bgc-0c { background-color: #0c0c0c; } .bgc-0d { background-color: #0d0d0d; } .bgc-0e { background-color: #0e0e0e; } .bgc-0f { background-color: #0f0f0f; }
+.bgc-11, .bgc-111 { background-color: #111; }
+  .bgc-1a { background-color: #1a1a1a; } .bgc-1b { background-color: #1b1b1b; } .bgc-1c { background-color: #1c1c1c; } .bgc-1d { background-color: #1d1d1d; } .bgc-1e { background-color: #1e1e1e; } .bgc-1f { background-color: #1f1f1f; }
+.bgc-22, .bgc-222 { background-color: #222; }
+  .bgc-2a { background-color: #2a2a2a; } .bgc-2b { background-color: #2b2b2b; } .bgc-2c { background-color: #2c2c2c; } .bgc-2d { background-color: #2d2d2d; } .bgc-2e { background-color: #2e2e2e; } .bgc-2f { background-color: #2f2f2f; }
+.bgc-33, .bgc-333 { background-color: #333; }
+  .bgc-3a { background-color: #3a3a3a; } .bgc-3b { background-color: #3b3b3b; } .bgc-3c { background-color: #3c3c3c; } .bgc-3d { background-color: #3d3d3d; } .bgc-3e { background-color: #3e3e3e; } .bgc-3f { background-color: #3f3f3f; }
+.bgc-44, .bgc-444 { background-color: #444; }
+  .bgc-4a { background-color: #4a4a4a; } .bgc-4b { background-color: #4b4b4b; } .bgc-4c { background-color: #4c4c4c; } .bgc-4d { background-color: #4d4d4d; } .bgc-4e { background-color: #4e4e4e; } .bgc-4f { background-color: #4f4f4f; }
+.bgc-55, .bgc-555 { background-color: #555; }
+  .bgc-5a { background-color: #5a5a5a; } .bgc-5b { background-color: #5b5b5b; } .bgc-5c { background-color: #5c5c5c; } .bgc-5d { background-color: #5d5d5d; } .bgc-5e { background-color: #5e5e5e; } .bgc-5f { background-color: #5f5f5f; }
+.bgc-66, .bgc-666 { background-color: #666; }
+  .bgc-6a { background-color: #6a6a6a; } .bgc-6b { background-color: #6b6b6b; } .bgc-6c { background-color: #6c6c6c; } .bgc-6d { background-color: #6d6d6d; } .bgc-6e { background-color: #6e6e6e; } .bgc-6f { background-color: #6f6f6f; }
+.bgc-77, .bgc-777 { background-color: #777; }
+  .bgc-7a { background-color: #7a7a7a; } .bgc-7b { background-color: #7b7b7b; } .bgc-7c { background-color: #7c7c7c; } .bgc-7d { background-color: #7d7d7d; } .bgc-7e { background-color: #7e7e7e; } .bgc-7f { background-color: #7f7f7f; }
+.bgc-88, .bgc-888 { background-color: #888; }
+  .bgc-8a { background-color: #8a8a8a; } .bgc-8b { background-color: #8b8b8b; } .bgc-8c { background-color: #8c8c8c; } .bgc-8d { background-color: #8d8d8d; } .bgc-8e { background-color: #8e8e8e; } .bgc-8f { background-color: #8f8f8f; }
+.bgc-99, .bgc-999 { background-color: #999; }
+  .bgc-9a { background-color: #9a9a9a; } .bgc-9b { background-color: #9b9b9b; } .bgc-9c { background-color: #9c9c9c; } .bgc-9d { background-color: #9d9d9d; } .bgc-9e { background-color: #9e9e9e; } .bgc-9f { background-color: #9f9f9f; }
+/* #AAA, #ABABAB, #ACACAC, #ADADAD, #AEAEAE, #AFAFAF */
+.bgc-aa, .bgc-aaa { background-color: #aaa; }
+.bgc-ab { background-color: #ababab; }
+.bgc-ac { background-color: #acacac; }
+.bgc-ad { background-color: #adadad; }
+.bgc-ae { background-color: #aeaeae; }
+.bgc-af { background-color: #afafaf; }
+/* #BBB, #BABABA, #BCBCBC, #BDBDBD, #BEBEBE, #BFBFBF */
+.bgc-ba { background-color: #bababa; }
+.bgc-bb, .bgc-bbb { background-color: #bbb; }
+.bgc-bc { background-color: #bcbcbc; }
+.bgc-bd { background-color: #bdbdbd; }
+.bgc-be { background-color: #bebebe; }
+.bgc-bf { background-color: #bfbfbf; }
+/* #CCC, #CACACA, #CBCBCB, #CDCDCD, #CECECE, #CFCFCF */
+.bgc-ca { background-color: #cacaca; }
+.bgc-cb { background-color: #cbcbcb; }
+.bgc-cc, .bgc-ccc { background-color: #ccc; }
+.bgc-cd { background-color: #cdcdcd; }
+.bgc-ce { background-color: #cecece; }
+.bgc-cf { background-color: #cfcfcf; }
+/* #DDD, #DADADA, #DBDBDB, #DCDCDC, #DEDEDE, #DFDFDF */
+.bgc-da { background-color: #dadada; }
+.bgc-db { background-color: #dbdbdb; }
+.bgc-dc { background-color: #dcdcdc; }
+.bgc-dd, .bgc-ddd { background-color: #ddd; }
+.bgc-de { background-color: #dedede; }
+.bgc-df { background-color: #dfdfdf; }
+/* #EEE, #EAEAEA, #EBEBEB, #ECECEC, #EDEDED, #EFEFEF */
+.bgc-ea { background-color: #eaeaea; }
+.bgc-eb { background-color: #ebebeb; }
+.bgc-ec { background-color: #ececec; }
+.bgc-ed { background-color: #ededed; }
+.bgc-ee, .bgc-eee { background-color: #eee; }
+.bgc-ef { background-color: #efefef; }
+/* #FFF, #FAFAFA, #FBFBFB, #FCFCFC, #FDFDFD, #FEFEFE */
+.bgc-fa { background-color: #fafafa; }
+.bgc-fb { background-color: #fbfbfb; }
+.bgc-fc { background-color: #fcfcfc; }
+.bgc-fd { background-color: #fdfdfd; }
+.bgc-fe { background-color: #fefefe; }
+.bgc-ff, .bgc-fff { background-color: #fff; }
+
 /* BORDER-RADIUS (From 0px to 50px + 50% & 100%) */
 .br0 { border-radius: 0; } .br1 { border-radius: 1px; } .br2 { border-radius: 2px; } .br3 { border-radius: 3px; } .br4 { border-radius: 4px; } .br5 { border-radius: 5px; } .br6 { border-radius: 6px; } .br7 { border-radius: 7px; } .br8 { border-radius: 8px; } .br9 { border-radius: 9px; }
 .br10 { border-radius: 10px; } .br11 { border-radius: 11px; } .br12 { border-radius: 12px; } .br13 { border-radius: 13px; } .br14 { border-radius: 14px; } .br15 { border-radius: 15px; } .br16 { border-radius: 16px; } .br17 { border-radius: 17px; } .br18 { border-radius: 18px; } .br19 { border-radius: 19px; }
